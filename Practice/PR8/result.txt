@@ -1,0 +1,229 @@
+Исходное слово | Перевод | Количество повторений
+и | and | 16
+он | Erkek | 8
+не | not | 5
+в | at | 5
+с | c | 4
+мой | my | 4
+когда | when | 3
+же | Wher | 3
+на | on | 3
+весь | весь | 3
+но | Not edged | 3
+monsieur | Þðèé, | 3
+какой | which | 2
+думать | think | 2
+так | so | 2
+без | without | 2
+родиться | be born | 2
+мочь | might | 2
+вы | vy | 2
+гулять | walk | 2
+евгений | Eugene | 2
+за | for | 2
+быть | be | 2
+мил. | mil | 2
+онегин | Onegin  | 2
+по | to | 2
+что | what | 2
+мы | we're | 2
+учёный | scientist | 2
+«мыть | Wash.  | 1
+дядя | uncle | 1
+самый | - ... | 1
+честной | 			fair. | 1
+правил, | regulation | 1
+шутка | Humour | 1
+занемог, | занемог | 1
+уважать | to respect | 1
+себя | it | 1
+заставить | - Force? | 1
+хороший | Good | 1
+выдумать | make it up | 1
+мог. | sould | 1
+пример | example | 1
+другой | other | 1
+наука; | science | 1
+но, | Not edged | 1
+бог | god | 1
+мой, | my | 1
+скука | Boredom | 1
+больной | Disease | 1
+сидеть | sit | 1
+день | day | 1
+ночь, | шөнө | 1
+отходить | Keep backing away | 1
+ни | HN | 1
+шаг | pitch | 1
+прочь! | away! | 1
+низкий | low | 1
+коварство | Cunning | 1
+полуживой | half-alive | 1
+забавлять, | забавлять | 1
+подушка | bed | 1
+поправлять, | Is correction required? | 1
+печально | Deplorably | 1
+подносить | to present | 1
+лекарство, | лекарство, | 1
+вздыхать | sigh | 1
+про | on | 1
+себя: | : | 1
+черта | Trait | 1
+взять | get | 1
+тебя!» | you | 1
+молодой | young | 1
+повеса, | повеса | 1
+лететь | a fly | 1
+пыль | dust | 1
+почтовых, | postal, | 1
+всевышний | Lord Almighty | 1
+воля | Liberty | 1
+зевес | zeus | 1
+наследник | legatee | 1
+свой | its own | 1
+родных. | relatives. | 1
+друг | friend | 1
+людмила | Ludmila | 1
+руслана! | Ruslana | 1
+герой | hero | 1
+роман | Novel | 1
+предисловий, | foreword, | 1
+сей | this | 1
+час | hour | 1
+позволить | let | 1
+познакомить | introduce | 1
+вас: | Special for YOU... Related Posts: | 1
+онегин, | Onegin  | 1
+добрый | good | 1
+приятель, | Buddy | 1
+брег | breg | 1
+невы, | nevi, | 1
+где, | where, | 1
+быть, | be | 1
+или | or | 1
+блистали, | shone, | 1
+читатель; | читатель | 1
+там | there | 1
+некогда | некогда | 1
+я: | . | 1
+вредный | harmful | 1
+север | north | 1
+для | for | 1
+меня. | me.  | 1
+служивый | official | 1
+отлично | Excellent | 1
+благородно, | Nobly | 1
+долг | debt | 1
+жить | Ikiru | 1
+отец, | Father | 1
+давать | ɡive | 1
+три | three | 1
+бал | Ball | 1
+ежегодно | annually | 1
+промотаться | промотаться | 1
+наконец. | finally | 1
+судьба | Destiny | 1
+хранила: | kept: | 1
+сперва | сперва | 1
+madame | MADAME | 1
+они | Oni | 1
+ходила, | walked, | 1
+потом | then | 1
+она | she | 1
+сменил. | changed it. | 1
+ребёнок | child | 1
+резов, | cuts, | 1
+l'abbé, | l 'abbé, | 1
+француз | The Frenchman | 1
+убогой, | wretched, | 1
+чтоб | so that | 1
+измучиться | измучиться | 1
+дитя, | Homo georgicus. | 1
+учить | learn | 1
+шутя, | jokingly | 1
+докучать | ply | 1
+мораль | Morality | 1
+строгой, | reporting | 1
+слегка | слегка | 1
+шалость | The Tease | 1
+бранить | rail at | 1
+летний | Summer | 1
+сад | garden | 1
+водил. | drove. | 1
+юность | Adolescence | 1
+мятежный | Rebellious | 1
+прийти | come | 1
+пора, | void | 1
+пора | void | 1
+надежда | Hope | 1
+грусть | sad | 1
+нежной, | gentle, | 1
+прогнать | drive away | 1
+двора. | the courtyard | 1
+вот | BDT | 1
+свободе; | freedom; | 1
+остричь | остричь | 1
+последний | last | 1
+моде, | fashion, | 1
+как | as | 1
+dandy | dandy | 1
+2 | 2 | 1
+лондонский | london | 1
+одетый | Clad Me | 1
+— | — | 1
+наконец | finally | 1
+увидеть | um, see | 1
+свет. | light. | 1
+по-французски | French? | 1
+совершенно | Completely | 1
+изъясняться | to explain | 1
+писал; | wrote; | 1
+легко | easy | 1
+мазурка | Mazurka | 1
+танцевать | dance | 1
+кланяться | bow | 1
+непринужденно; | at ease; | 1
+ж | ж | 1
+больше? | more | 1
+свет | lighting | 1
+решил, | decided the following: | 1
+умный | smart | 1
+очень | very | 1
+всё | Everything | 1
+учиться | study | 1
+понемногу | Little by little. | 1
+что-нибудь | anything | 1
+как-нибудь, | как-нибудь | 1
+воспитаньем, | upbringing, | 1
+слава | Glory | 1
+богу, | Bogus? | 1
+у | y | 1
+немудрено | — No wonder.  | 1
+блеснуть. | sparkle. | 1
+мнение | View  | 1
+многий | ийй | 1
+(судья | Judge | 1
+решительный | feisty | 1
+строгих) | strict) | 1
+малый, | Small | 1
+педант: | Pedant | 1
+иметь | have	a | 1
+счастливый | happy | 1
+талант | Talent | 1
+принуждение | pressurising | 1
+разговор | Dialogue | 1
+коснуться | tap | 1
+до | to | 1
+слегка, | слегка | 1
+вид | type | 1
+знаток | Expert | 1
+хранить | Store | 1
+молчание | Silence | 1
+важный | important | 1
+спор | dispute | 1
+возбуждать | engender | 1
+улыбка | smile | 1
+дать | let | 1
+огонь | burn | 1
+нежданный | unexpected | 1
+эпиграмм. | epigram. | 1
